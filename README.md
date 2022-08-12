@@ -1,0 +1,2 @@
+# currency_name
+Тест
